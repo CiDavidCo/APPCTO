@@ -21,7 +21,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `anagrafica_aziende`
 --
-
+CREATE DATABASE anagrafica_aziende;
 -- --------------------------------------------------------
 
 --

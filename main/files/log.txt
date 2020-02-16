@@ -1,0 +1,504 @@
+Ora dell'esecuzione: 2020-02-11 11:41:54.199738
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 1
+Totale record scritti sul file error: 914
+
+Ora dell'esecuzione: 2020-02-11 11:42:12.208097
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 1
+Totale record scritti sul file error: 914
+
+Ora dell'esecuzione: 2020-02-11 11:42:21.223025
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 1
+Totale record scritti sul file error: 914
+
+Ora dell'esecuzione: 2020-02-11 11:43:13.030405
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 11:43:45.456518
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 1
+Totale record scritti sul file error: 914
+
+Ora dell'esecuzione: 2020-02-11 11:45:27.031569
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 11:46:06.576220
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 11:47:20.484320
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 11:47:54.977554
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 11:48:02.174697
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 11:49:06.495647
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:01:17.514041
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:03:42.807963
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:04:09.593419
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:04:23.988266
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:06:33.107744
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:07:23.115298
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:07:55.625370
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:08:06.491435
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:08:42.388336
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:10:18.196216
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:11:46.282662
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:12:50.193356
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:13:11.289606
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:15:01.296156
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:16:27.286303
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:17:41.383447
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:19:50.441453
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:21:57.342895
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:22:17.284724
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:22:33.578878
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:23:12.615475
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:23:38.072112
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:24:11.300564
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:25:46.469596
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:26:29.292202
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:26:43.983640
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:28:07.438058
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:28:28.435583
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:29:08.249281
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:30:00.879274
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:36:05.902194
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:36:59.848765
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:42:05.546677
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:42:49.140652
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:43:20.036890
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:44:42.103740
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:courses, topics, elements
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:45:37.801046
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:47:45.088364
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:50:37.442986
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:53:40.350645
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:57:51.862582
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 12:58:54.679852
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 0
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:01:50.479018
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:02:03.042089
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 1
+Totale record scritti sul file error: 914
+
+Ora dell'esecuzione: 2020-02-11 13:02:39.561178
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:19:53.781788
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:20:03.864166
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:20:39.089696
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:22:24.287019
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:22:47.549588
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:24:27.771133
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:26:07.771151
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:26:18.799886
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:26:40.218925
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:27:10.080564
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:29:26.879654
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:34:39.520899
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:35:27.721412
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:38:39.939897
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:39:35.484109
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
+Ora dell'esecuzione: 2020-02-11 13:39:49.933615
+Programma eseguito: etl.py
+File in input: (csv/aziende.csv, csv/studenti.csv, files/error.csv, files/log.txt)
+Nome tabelle aggiornate:aziende, studenti
+Numero di record aggiornati: 916
+Totale record scritti sul file error: 0
+
